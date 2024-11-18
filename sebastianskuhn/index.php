@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main Page</title>
-</head>
+<?php 
+$title = "Main Page";
+include("includes/header.inc");?>
 <body>
     <h1>Page Under Construction</h1>
 </body>
