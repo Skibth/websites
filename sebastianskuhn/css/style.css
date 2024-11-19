@@ -1,3 +1,11 @@
-nav {
-    background-color: thistle;
+h1 {
+    margin: auto;
+}
+.nav {
+    background-color: thistle !important;
+    margin: auto;
+}
+
+a {
+    color: white;
 }
