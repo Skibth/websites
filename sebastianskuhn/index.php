@@ -11,24 +11,22 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+    <script data-require="jquery@1.11.3" data-semver="1.11.3" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
     <link rel="stylesheet" href="css/style.css">
+    <link rel="import" href="nav.html">
 
 </head>
 <body>
-    <nav class="nav navbar navbar-expand-sm bg-light navbar-light ">
-        <div class="container-fluid">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home Page</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="projects.html">Projects</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+
     <main>
         <h1>Page Under Construction</h1>
     </main>
+    <footer>
+        <div class="container-fluid">
+            <p class="center">&#169 copyright of Sebastian Kuhn</p>
+            <a class="center col-12" id="github-link" href="https://github.com/Skibth/websites">Github Repo for websites</a>
+        </div>
+    </footer>
 </body>
 </html>
