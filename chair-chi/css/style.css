@@ -101,14 +101,26 @@
     text-align: center;
 }
 
+.redirect {
+    color: black;
+}
+
+.h5 {
+    color: #547784;
+    text-decoration: none;
+    font-size: 110%;
+}
+
 h4 {
     margin-top: 20px;
     color: #547784;
     font-size: 2rem;
 }
 
+
 h5 {
     margin-top: 20px;
+    color: #547784;
     font-size: 1.5rem;
 }
 
@@ -130,13 +142,15 @@ footer {
     width: 100%;
 }
 
-.redirect {
-    color: black;
-}
+
 
 @media (max-width :760px) {
     .main-text {
         margin-left: 3%;
         margin-right: 3%;
     }
+}
+
+.split {
+    max-height: 50px;
 }
