@@ -142,7 +142,9 @@ footer {
     width: 100%;
 }
 
-
+.split {
+    max-height: 50px;
+}
 
 @media (max-width :760px) {
     .main-text {
@@ -151,6 +153,4 @@ footer {
     }
 }
 
-.split {
-    max-height: 50px;
-}
+
