@@ -95,8 +95,8 @@
 }
 
 .main-text {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 15%;
+    margin-right: 15%;
     width: fit-content;
     text-align: center;
 }
@@ -144,6 +144,15 @@ footer {
 
 .split {
     max-height: 50px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bottom-text {
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 @media (max-width :760px) {
